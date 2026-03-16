@@ -28,3 +28,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore specific exercise directories
+src/P10MementoPattern/Ex01VideoGame/
+src/P1DecoratorPattern/Ex1_CarDecorator/
+src/P3AbstractFactoryPattern/Ex1_ArchitectOffice/
+src/P3AbstractFactoryPattern/Ex2_CarProgram/
+src/P7StatePattern/Ex01CoffeeMachineState/
+src/P7StatePattern/Ex02ConversationState/
+src/P9ChainOfRespPattern/Ex01GumballCorporation/
