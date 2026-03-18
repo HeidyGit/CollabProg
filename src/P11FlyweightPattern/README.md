@@ -42,7 +42,7 @@ En résumé : Quand on a besoin de créer un très grand nombre d'objets similai
                                    │ + operation()      │
                                    └──────────┬─────────┘
                                               │
-                                              ▲
+                                              ▲ extends/implements
                                               │
                          ┌────────────────────┴────────────────────┐
                          │                                         │

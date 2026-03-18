@@ -37,3 +37,6 @@ src/P3AbstractFactoryPattern/Ex2_CarProgram/
 src/P7StatePattern/Ex01CoffeeMachineState/
 src/P7StatePattern/Ex02ConversationState/
 src/P9ChainOfRespPattern/Ex01GumballCorporation/
+src/P4CommandPattern/Ex1HouseExtension/
+src/P6TemplatePattern/Ex01Restaurant/
+P11FlyweightPattern/Ex01_PaintingBrush/
