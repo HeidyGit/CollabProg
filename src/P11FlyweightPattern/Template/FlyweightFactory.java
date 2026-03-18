@@ -1,4 +1,4 @@
-package P11FlyweightPattern;
+package P11FlyweightPattern.Template;
 
 import java.util.HashMap;
 import java.util.Map;
