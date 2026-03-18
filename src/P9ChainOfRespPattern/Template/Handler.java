@@ -1,4 +1,4 @@
-package P9ChainOfRespPattern;
+package P9ChainOfRespPattern.Template;
 
 public abstract class Handler {
     protected Handler successor;

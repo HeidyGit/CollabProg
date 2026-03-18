@@ -1,4 +1,4 @@
-package P8BuilderPattern;
+package P8BuilderPattern.Template;
 
 public class Director {
     private Builder builder;

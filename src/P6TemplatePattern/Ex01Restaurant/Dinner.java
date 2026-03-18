@@ -1,4 +1,4 @@
-package P6TemplatePattern;
+package P6TemplatePattern.Ex01Restaurant;
 
 public abstract class Dinner {
     final void prepareTheMenu (){

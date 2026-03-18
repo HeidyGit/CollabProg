@@ -1,4 +1,4 @@
-package P9ChainOfRespPattern;
+package P9ChainOfRespPattern.Template;
 
 public class Request {
     private String value;
