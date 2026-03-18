@@ -1,4 +1,4 @@
-package P10MementoPattern;
+package P10MementoPattern.Template;
 
 public class Test {
     public static void main (String[] args){
