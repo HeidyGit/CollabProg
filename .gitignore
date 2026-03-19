@@ -29,10 +29,8 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+# Ignore all README.md files
+**/README.md
+
 # Ignore specific exercise directories
-
-
-
-
-
-src/P11FlyweightPattern/Ex01_PaintingBrush/
+src/P11FlyweightPattern
