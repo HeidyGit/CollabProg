@@ -25,7 +25,7 @@ public class Person {
     public void setState(State state) {
         currentState = state;
     }
-
+    //Getter de tt sauf de l'etat actuel. le seule q'on set.
     public State getInMeeting() {
         return inMeeting;
     }
