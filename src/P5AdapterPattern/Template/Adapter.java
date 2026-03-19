@@ -1,4 +1,4 @@
-package P5AdapterPattern;
+package P5AdapterPattern.Template;
 
 public class Adapter implements Target{
     private Adaptee adaptee;

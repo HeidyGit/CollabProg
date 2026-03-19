@@ -34,7 +34,6 @@ bin/
 src/P1DecoratorPattern/Ex1_CarDecorator/
 src/P3AbstractFactoryPattern/Ex1_ArchitectOffice/
 src/P3AbstractFactoryPattern/Ex2_CarProgram/
-src/P7StatePattern/Ex01CoffeeMachineState/
 src/P4CommandPattern/Ex1HouseExtension/
 src/P6TemplatePattern/Ex01Restaurant/
 src/P11FlyweightPattern/Ex01_PaintingBrush/
