@@ -1,7 +1,5 @@
 package P1DecoratorPattern.Template;
 
-import P1DecoratorPattern.Decorator;
-
 public class ConcreteDecoratorB extends Decorator {
 
     public ConcreteDecoratorB(Component component) {
