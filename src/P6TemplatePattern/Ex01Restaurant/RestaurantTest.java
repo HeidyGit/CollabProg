@@ -1,4 +1,4 @@
-package P6TemplatePattern;
+package P6TemplatePattern.Ex01Restaurant;
 
 public class RestaurantTest {
     public static void main(String[] args) {

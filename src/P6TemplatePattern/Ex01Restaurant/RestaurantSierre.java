@@ -1,4 +1,4 @@
-package P6TemplatePattern;
+package P6TemplatePattern.Ex01Restaurant;
 
 public class RestaurantSierre extends Dinner{
     public void prepareVegetables(){
