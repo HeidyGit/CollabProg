@@ -1,5 +1,7 @@
 package P1DecoratorPattern;
 
+import P1DecoratorPattern.Template.Component;
+
 public abstract class Decorator implements Component {
     Component component;
 

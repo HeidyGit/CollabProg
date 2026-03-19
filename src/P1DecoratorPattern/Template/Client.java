@@ -1,4 +1,4 @@
-package P1DecoratorPattern;
+package P1DecoratorPattern.Template;
 
 public class Client {
     public static void main(String[] args) {
